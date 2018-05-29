@@ -14,6 +14,8 @@ namespace ConsoleApp1
             Demo.Hello("Patrick");
             Console.WriteLine("Tack f;r idag slut f;r idag bullirbullirbock");
             Console.ReadKey();
+            Demo.Hello("Mr");
+            Console.WriteLine("Best Branch");
         }
     }
 }
