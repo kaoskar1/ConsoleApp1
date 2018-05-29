@@ -13,7 +13,7 @@ namespace ConsoleApp1
             Console.WriteLine("Hello World!");
             Demo.Hello("Patrick");
             Console.WriteLine("Tack f;r idag slut f;r idag bullirbullirbock");
-
+            Console.ReadKey();
         }
     }
 }
