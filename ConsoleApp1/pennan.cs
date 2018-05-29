@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    class Demo
+    class pennan
     {
-        static public void Hello(string name) => Console.WriteLine($"hi {name}!" );
-         }
+       
+    }
 }
