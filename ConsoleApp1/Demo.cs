@@ -9,5 +9,5 @@ namespace ConsoleApp1
     class Demo
     {
         static public void Hello(string name) => Console.WriteLine($"hi {name}!" );
-         }
+    }
 }
